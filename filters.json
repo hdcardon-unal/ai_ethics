@@ -1,0 +1,27 @@
+{
+    "bradford_law_zones": 3,
+    "citations": [
+        0,
+        353
+    ],
+    "citations_range": [
+        0,
+        353
+    ],
+    "document_types": [
+        "Article"
+    ],
+    "excluded_terms": "---",
+    "selected_cluster": "---",
+    "selected_types": [
+        "Article"
+    ],
+    "year_range": [
+        1962,
+        2021
+    ],
+    "years": [
+        1962,
+        2021
+    ]
+}
