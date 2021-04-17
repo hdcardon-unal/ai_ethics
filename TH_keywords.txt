@@ -462,9 +462,10 @@ aging in place
     aging in place
 agitation
     agitation
+agricultural big data
+    agricultural big data
 agricultural data
     agricultural data
-    agricultural big data
 agricultural economics
     agricultural economics
 agricultural industries
@@ -485,6 +486,77 @@ agricultural technology provider
     agricultural technology provider
 agriculture
     agriculture
+ai (artificial intelligence)
+    ai (artificial intelligence)
+ai algorithms
+    ai algorithms
+ai alignment
+    ai alignment
+ai and face recognition
+    ai and face recognition
+ai and law
+    ai and law
+ai and machine ethics
+    ai and machine ethics
+ai applications
+    ai applications
+ai arms race
+    ai arms race
+ai artifacts
+    ai artifacts
+ai assistants
+    ai assistants
+ai confinement
+    ai confinement
+ai course
+    ai course
+ai ethics
+    ai ethics
+    ethical ai
+ai ethics guidelines
+    ai ethics guidelines
+ai for social good (ai4sg)
+    ai for social good (ai4sg)
+ai governance
+    ai governance
+ai in education
+    ai in education
+ai knowledge map
+    ai knowledge map
+ai policy
+    ai policy
+ai principles
+    ai principles
+ai regulation
+    ai regulation
+ai research oversight
+    ai research oversight
+ai rights
+    ai rights
+ai risk assessment
+    ai risk assessment
+ai risk management
+    ai risk management
+ai safety
+    ai safety
+ai security
+    ai security
+ai systems
+    ai systems
+ai techniques
+    ai techniques
+ai technologies
+    ai technologies
+ai+ethics
+    ai+ethics
+ai-based educational systems
+    ai-based educational systems
+ai-crime
+    ai-crime
+ai4people
+    ai4people
+ai4sg
+    ai4sg
 aibo
     aibo
 aids serodiagnosis
@@ -1065,7 +1137,7 @@ aortic valve
     aortic valve
 apgar score
     apgar score
-apocalyptic artificial intelligence
+apocalyptic ai
     apocalyptic ai
 apolipoprotein e
     apolipoprotein e
@@ -1086,6 +1158,8 @@ application range
     application range
 applications
     applications
+applications of ai
+    applications of ai
 applied and professional ethics
     applied and professional ethics
 applied ethics
@@ -1162,12 +1236,17 @@ arthroscopy
     arthroscopy
 article
     article
+artifact
+    artifact
+    artifacts
 artifact reduction
     artifact reduction
 artifact spread function
     artifact spread function
 artifactual responsibility
     artifactual responsibility
+artifical intelligence
+    artifical intelligence
 artificial agency
     artificial agency
 artificial agent
@@ -1204,74 +1283,18 @@ artificial immune system
     artificial immune systems
 artificial inference
     artificial inference
-artificial intelligence alignment
-    ai alignment
-artificial intelligence and face recognition
-    ai and face recognition
-artificial intelligence and law
-    ai and law
-artificial intelligence applications
-    ai applications
-    applications of ai
-artificial intelligence arms race
-    ai arms race
-artificial intelligence artifacts
-    ai artifacts
-    artifact
-    artifacts
-artificial intelligence assistants
-    ai assistants
-artificial intelligence confinement
-    ai confinement
-artificial intelligence ethics guidelines
-    ai ethics guidelines
-artificial intelligence for social good (ai4sg)
-    ai for social good (ai4sg)
-    ai4sg
-artificial intelligence governance
-    ai governance
-artificial intelligence in education
-    ai in education
-artificial intelligence knowledge map
-    ai knowledge map
-artificial intelligence policy
-    ai policy
-artificial intelligence principles
-    ai principles
-artificial intelligence regulation
-    ai regulation
-artificial intelligence research oversight
-    ai research oversight
-artificial intelligence rights
-    ai rights
-artificial intelligence risk assessment
-    ai risk assessment
-artificial intelligence risk management
-    ai risk management
-artificial intelligence safety
-    ai safety
-artificial intelligence security
-    ai security
-artificial intelligence based educational systems
-    ai-based educational systems
-artificial intelligence-crime
-    ai-crime
+artificial intellegence
+    artificial intellegence
 artificial intelligence
     artificial intelligence
     artificial intelligence (ai)
     artificial intelligence(ai)
     artificial intelligent
-    artificial intellegence
-    ai (artificial intelligence)
-    artifical intelligence
-    ai4people
 artificial intelligence algorithms
     artificial intelligence algorithms
-    ai algorithms
 artificial intelligence and ethics
     artificial intelligence and ethics
     ethics and artificial intelligence
-    ai+ethics
 artificial intelligence and existentialism
     artificial intelligence and existentialism
 artificial intelligence and future
@@ -1282,16 +1305,9 @@ artificial intelligence coaching
     artificial intelligence coaching
 artificial intelligence course
     artificial intelligence course
-    ai course
 artificial intelligence ethics
     artificial intelligence ethics
     ethical artificial intelligence
-    ai ethics
-    ethical ai
-    ethics of artificial intelligence
-    ethics of ai
-    ethics of ais.
-    ethics of artificial intelligence
 artificial intelligence humanities
     artificial intelligence humanities
 artificial intelligence in medicine
@@ -1305,13 +1321,10 @@ artificial intelligence research
 artificial intelligence systems
     artificial intelligence systems
     systems artificial intelligence
-    ai systems
 artificial intelligence techniques
     artificial intelligence techniques
-    ai techniques
 artificial intelligence technologies
     artificial intelligence technologies
-    ai technologies
 artificial intelligent behavior
     artificial intelligent behavior
     behavioral artificial intelligence
@@ -1647,7 +1660,7 @@ autonomous action
     autonomous action
 autonomous agents
     autonomous agents
-autonomous artificial intelligence system
+autonomous ai system
     autonomous ai system
 autonomous artificial moral agents
     autonomous artificial moral agents
@@ -1869,7 +1882,7 @@ bendamustine
     bendamustine
 beneficence
     beneficence
-beneficial artificial intelligence
+beneficial ai
     beneficial ai
 benefit
     benefit
@@ -4222,7 +4235,7 @@ conversation management
     conversation management
 conversational agents
     conversational agents
-conversational artificial intelligence
+conversational ai
     conversational ai
 convex optimization
     convex optimization
@@ -5800,7 +5813,7 @@ domain experts
 domain specific languages
     domain specific languages
     domain-specific language
-domain-specific artificial intelligence
+domain-specific ai
     domain-specific ai
 domain-specific policies
     domain-specific policies
@@ -6013,7 +6026,7 @@ dual use
     dual-use
 dual-process model
     dual-process model
-dual-use artificial intelligence
+dual-use ai
     dual-use ai
 dual-use applications
     dual-use applications
@@ -6140,7 +6153,7 @@ eastern (buddhist) wisdom
 eating disorder
     eating disorder
     eating disorders
-ec guidelines for trustworthy artificial intelligence
+ec guidelines for trustworthy ai
     ec guidelines for trustworthy ai
 ecg
     ecg
@@ -6434,7 +6447,7 @@ em algorithm
     em algorithms
 embase
     embase
-embedded artificial intelligence
+embedded ai
     embedded ai
 embedded systems
     embedded systems
@@ -6520,7 +6533,7 @@ emotion in human-computer interaction
     emotion in human-computer interaction
 emotion recognition
     emotion recognition
-emotional artificial intelligence
+emotional ai
     emotional ai
 emotional artificial intelligence
     emotional artificial intelligence
@@ -6951,7 +6964,7 @@ ethical investing
 ethical issue
     ethical issue
     ethical issues
-ethical issues of artificial intelligence
+ethical issues of ai
     ethical issues of ai
 ethical leadership
     ethical leadership
@@ -6963,7 +6976,6 @@ ethical machine learning
 ethical machines
     ethical machines
     machine ethics
-    ai and machine ethics
 ethical management
     ethical management
     ethics management
@@ -7059,7 +7071,11 @@ ethics in or
     ethics in or
 ethics in research
     ethics in research
-
+ethics of ai
+    ethics of ai
+    ethics of ais.
+ethics of artificial intelligence
+    ethics of artificial intelligence
 ethics of care
     ethics of care
     ethics of caring
@@ -7282,9 +7298,10 @@ expired air
     expired air
 explainability
     explainability
+explainable ai
+    explainable ai
 explainable artificial intelligence
     explainable artificial intelligence
-    explainable ai
 explanation
     explanation
 explicability
@@ -7394,7 +7411,7 @@ fairness properties
     fairness properties
 fairness trade-offs
     fairness trade-offs
-fairness-aware artificial intelligence
+fairness-aware ai
     fairness-aware ai
 fairness-aware machine learning
     fairness-aware machine learning
@@ -7844,9 +7861,10 @@ fresh frozen plasma
     fresh frozen plasma
 friction
     friction
+friendly ai
+    friendly ai
 friendly artificial intelligence
     friendly artificial intelligence
-    friendly ai
 friendship
     friendship
 frontal lobe
@@ -8044,7 +8062,7 @@ gender
     gender
 gender studies
     gender studies
-gendered artificial intelligence
+gendered ai
     gendered ai
 gene
     gene
@@ -8362,7 +8380,7 @@ goods
     goods
 google
     google
-google artificial intelligence
+google ai
     google ai
 goteborg
     goteborg
@@ -8702,7 +8720,7 @@ health technology assessments
     health technology assessments
 health workforce
     health workforce
-health-related artificial intelligence research
+health-related ai research
     health-related ai research
 healthcare
     healthcare
@@ -9193,7 +9211,7 @@ human activities
     human activities
 human agent
     human agent
-human and artificial intelligence interaction
+human and ai interaction
     human and ai interaction
 human attention
     human attention
@@ -10580,7 +10598,7 @@ japan
     japan
 japanese (people)
     japanese (people)
-japanese artificial intelligence pop star
+japanese ai pop star
     japanese ai pop star
 jaundice
     jaundice
@@ -11479,7 +11497,7 @@ machine learning techniques
     machine-learning techniques
 machine learning technology
     machine learning technology
-machine learning: artificial intelligence
+machine learning: ai
     machine learning: ai
 machine morality
     machine morality
@@ -11839,6 +11857,8 @@ mediator
     mediator
 medicaid
     medicaid
+medical ai
+    medical ai
 medical and biological imaging
     medical and biological imaging
 medical and healthcare robots
@@ -11849,7 +11869,6 @@ medical applications
     medical applications
 medical artificial intelligence (mai)
     medical artificial intelligence (mai)
-    medical ai
 medical assessment
     medical assessment
 medical audit
@@ -12501,7 +12520,7 @@ moral agency
 moral agent
     moral agent
     moral agents
-moral artificial intelligence
+moral ai
     moral ai
 moral and ethical behavior
     moral and ethical behavior
@@ -13643,7 +13662,7 @@ oocyte retrieval
     oocyte retrieval
 opacity
     opacity
-opaque artificial intelligence
+opaque ai
     opaque ai
 open
     open
@@ -14515,7 +14534,7 @@ philosophy
     philosophy
 philosophy and ethics
     philosophy and ethics
-philosophy of artificial intelligence
+philosophy of ai
     philosophy of ai
 philosophy of artificial intelligence
     philosophy of artificial intelligence
@@ -15848,7 +15867,7 @@ race and political rights
     race and political rights
 race difference
     race difference
-race to artificial intelligence
+race to ai
     race to ai
 racializing assemblages
     racializing assemblages
@@ -16439,9 +16458,10 @@ responsibility
     responsibility
 responsibility gap
     responsibility gap
+responsible ai
+    responsible ai
 responsible artificial intelligence
     responsible artificial intelligence
-    responsible ai
 responsible innovation
     responsible innovation
     responsible innovations
@@ -17568,7 +17588,7 @@ social acceptance
     social acceptance
 social actors
     social actors
-social ai***
+social ai
     social ai
 social and environmental
     social and environmental
@@ -17652,7 +17672,7 @@ social impact
     social impacts
 social impact of robots
     social impact of robots
-social impacts of artificial intelligence
+social impacts of ai
     social impacts of ai
 social implication
     social implication
@@ -18258,7 +18278,7 @@ stroke volume
     stroke volume
 stroma
     stroma
-strong artificial intelligence
+strong ai
     strong ai
 strontium
     strontium
@@ -19334,7 +19354,7 @@ transmissions
     transmissions
 transparency
     transparency
-transparency in ai***
+transparency in ai
     transparency in ai
 transparency in algorithms (fat*)
     transparency in algorithms (fat*)
@@ -19475,7 +19495,7 @@ trusted frameworks
     trusted frameworks
 trustworthiness
     trustworthiness
-trustworthy artificial intelligence
+trustworthy ai
     trustworthy ai
 trustworthy artificial intelligence
     trustworthy artificial intelligence
