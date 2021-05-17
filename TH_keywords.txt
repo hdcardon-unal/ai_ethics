@@ -428,8 +428,6 @@ aged care
     aged care
 aged, 80 and over
     aged, 80 and over
-agency
-    agency
 agency laundering
     agency laundering
 agent based
@@ -486,77 +484,6 @@ agricultural technology provider
     agricultural technology provider
 agriculture
     agriculture
-ai (artificial intelligence)
-    ai (artificial intelligence)
-ai algorithms
-    artificial intelligence algorithms
-ai alignment
-    artificial intelligence alignment
-ai and face recognition
-    artificial intelligence and face recognition
-ai and law
-    artificial intelligence and law
-ai and machine ethics
-    artificial intelligence and machine ethics
-ai applications
-    artificial intelligence applications
-ai arms race
-    artificial intelligence arms race
-ai artifacts
-    artificial intelligence artifacts
-ai assistants
-    artificial intelligence assistants
-ai confinement
-    artificial intelligence confinement
-ai course
-    ai course
-ai ethics
-    artificial intelligence ethics
-    ethical artificial intelligence
-ai ethics guidelines
-    artificial intelligence ethics guidelines
-ai for social good (ai4sg)
-    artificial intelligence for social good (ai4sg)
-ai governance
-    artificial intelligence governance
-ai in education
-    artificial intelligence in education
-ai knowledge map
-    artificial intelligence knowledge map
-ai policy
-    artificial intelligence policy
-ai principles
-    artificial intelligence principles
-ai regulation
-    artificial intelligence regulation
-ai research oversight
-    artificial intelligence research oversight
-ai rights
-    artificial intelligence rights
-ai risk assessment
-    artificial intelligence risk assessment
-ai risk management
-    artificial intelligence risk management
-ai safety
-    artificial intelligence safety
-ai security
-    artificial intelligence security
-ai systems
-    artificial intelligence systems
-ai techniques
-    artificial intelligence techniques
-ai technologies
-    artificial intelligence technologies
-ai+ethics
-    artificial intelligence+ethics
-ai-based educational systems
-    artificial intelligence-based educational systems
-ai-crime
-    artificial intelligence-crime
-ai4people
-    ai4people
-ai4sg
-    ai4sg
 aibo
     aibo
 aids serodiagnosis
@@ -1137,7 +1064,8 @@ aortic valve
     aortic valve
 apgar score
     apgar score
-apocalyptic ai
+apocalyptic artificial intelligence
+    apocalyptic ai
     apocalyptic artificial intelligence
 apolipoprotein e
     apolipoprotein e
@@ -1158,8 +1086,6 @@ application range
     application range
 applications
     applications
-applications of ai
-    applications of artificial intelligence
 applied and professional ethics
     applied and professional ethics
 applied ethics
@@ -1245,10 +1171,6 @@ artifact spread function
     artifact spread function
 artifactual responsibility
     artifactual responsibility
-artifical intelligence
-    artifical intelligence
-artificial agency
-    artificial agency
 artificial agent
     artificial agent
     artificial agents
@@ -1283,55 +1205,146 @@ artificial immune system
     artificial immune systems
 artificial inference
     artificial inference
-artificial intellegence
-    artificial intellegence
+artificial intelligence alignment   
+    ai alignment
+    artificial intelligence alignment
+artificial intelligence and law
+    ai and law
+    artificial intelligence and law
+artificial intelligence and machine ethics
+    ai and machine ethics
+    artificial intelligence and machine ethics
+artificial intelligence applications
+    ai applications
+    artificial intelligence applications
+    applications of ai
+    applications of artificial intelligence
+artificial intelligence arms race
+    ai arms race
+    artificial intelligence arms race
+artificial intelligence artifacts
+    ai artifacts
+    artificial intelligence artifacts
+artificial intelligence assistants
+    ai assistants
+    digital assistants
+    artificial intelligence assistants
+artificial intelligence confinement
+    ai confinement
+    artificial intelligence confinement
+artificial intelligence ethics
+    ai ethics
+    artificial intelligence ethics
+    ethical artificial intelligence
+    ai+ethics
+    artificial intelligence+ethics
+    artificial intelligence and ethics
+    ethics and artificial intelligence
+    ethics of ai
+    ethics of artificial intelligence
+    ethics of ais.
+artificial intelligence ethics guidelines
+    ai ethics guidelines
+    artificial intelligence ethics guidelines
+artificial intelligence for social good
+    ai for social good (ai4sg)
+    artificial intelligence for social good (ai4sg)
+    ai4sg
+artificial intelligence governance
+    ai governance
+    artificial intelligence governance
+    governance of artificial intelligence
+artificial intelligence in education
+    ai in education
+    artificial intelligence in education
+    ai-based educational systems
+    artificial intelligence-based educational systems
+artificial intelligence knowledge map
+    ai knowledge map
+    artificial intelligence knowledge map
+artificial intelligence policy
+    ai policy
+    artificial intelligence policy
+artificial intelligence principles
+    ai principles
+    artificial intelligence principles
+artificial intelligence regulation
+    ai regulation
+    artificial intelligence regulation
+artificial intelligence rights
+    ai rights
+    artificial intelligence rights
+artificial intelligence risk assessment
+    ai risk assessment
+    artificial intelligence risk assessment
+artificial intelligence risk management
+    ai risk management
+    artificial intelligence risk management
+artificial intelligence safety
+    ai safety
+    artificial intelligence safety
+artificial intelligence security
+    ai security
+    artificial intelligence security
+artificial intelligence systems
+    ai systems
+    artificial intelligence systems
+    systems artificial intelligence
+artificial intelligence techniques
+    ai techniques
+    artificial intelligence techniques
+artificial intelligence technologies
+    ai technologies
+    artificial intelligence technologies
+artificial intelligence crime
+    ai-crime
+    artificial intelligence-crime
+artificial intelligence for people
+    ai4people
 artificial intelligence
     artificial intelligence
     artificial intelligence (ai)
     artificial intelligence(ai)
     artificial intelligent
+    ai (artificial intelligence)
+    artificial intellegence
+    artifical intelligence
 artificial intelligence algorithms
     artificial intelligence algorithms
-artificial intelligence and ethics
-    artificial intelligence and ethics
-    ethics and artificial intelligence
+    artificial intelligence algorithms
+    ai algorithms
 artificial intelligence and existentialism
     artificial intelligence and existentialism
 artificial intelligence and future
-    artificial intelligence and future
+    artificial intelligence and future    
 artificial intelligence and way forward
     artificial intelligence and way forward
 artificial intelligence coaching
     artificial intelligence coaching
 artificial intelligence course
     artificial intelligence course
-artificial intelligence ethics
-    artificial intelligence ethics
-    ethical artificial intelligence
+    ai course
 artificial intelligence humanities
     artificial intelligence humanities
 artificial intelligence in medicine
     artificial intelligence in medicine
 artificial intelligence intelligent machines
     artificial intelligence intelligent machines
-artificial intelligence policy
-    artificial intelligence policy
+    intelligent machine
+    intelligent machines
+    machine intelligence
 artificial intelligence research
     artificial intelligence research
-artificial intelligence systems
-    artificial intelligence systems
-    systems artificial intelligence
-artificial intelligence techniques
-    artificial intelligence techniques
-artificial intelligence technologies
-    artificial intelligence technologies
+    artificial intelligence research oversight
+    ai research oversight
 artificial intelligent behavior
     artificial intelligent behavior
     behavioral artificial intelligence
+artificial intelligence health 
+    health artificial intelligence (ai)
+    health artificial intelligence 
 artificial life
     artificial life
-artificial moral agency
-    artificial moral agency
 artificial moral agent
     artificial moral agent
     artificial moral agents
@@ -1660,7 +1673,8 @@ autonomous action
     autonomous action
 autonomous agents
     autonomous agents
-autonomous ai system
+autonomous artificial intelligence system
+    autonomous ai system
     autonomous artificial intelligence system
 autonomous artificial moral agents
     autonomous artificial moral agents
@@ -1882,7 +1896,8 @@ bendamustine
     bendamustine
 beneficence
     beneficence
-beneficial ai
+beneficial artificial intelligence
+    beneficial ai
     beneficial artificial intelligence
 benefit
     benefit
@@ -4235,7 +4250,8 @@ conversation management
     conversation management
 conversational agents
     conversational agents
-conversational ai
+conversational artificial intelligence
+    conversational ai
     conversational artificial intelligence
 convex optimization
     convex optimization
@@ -5467,8 +5483,7 @@ digital
     digitization
 digital agents
     digital agents
-digital assistants
-    digital assistants
+
 digital automotive management
     digital automotive management
 digital biopolitics
@@ -5813,7 +5828,8 @@ domain experts
 domain specific languages
     domain specific languages
     domain-specific language
-domain-specific ai
+domain-specific artificial intelligence
+    domain-specific ai
     domain-specific artificial intelligence
 domain-specific policies
     domain-specific policies
@@ -6026,7 +6042,8 @@ dual use
     dual-use
 dual-process model
     dual-process model
-dual-use ai
+dual-use artificial intelligence
+    dual-use ai
     dual-use artificial intelligence
 dual-use applications
     dual-use applications
@@ -6153,7 +6170,8 @@ eastern (buddhist) wisdom
 eating disorder
     eating disorder
     eating disorders
-ec guidelines for trustworthy ai
+ec guidelines for trustworthy artificial intelligence
+    ec guidelines for trustworthy ai
     ec guidelines for trustworthy artificial intelligence
 ecg
     ecg
@@ -6447,7 +6465,8 @@ em algorithm
     em algorithms
 embase
     embase
-embedded ai
+embedded artificial intelligence
+    embedded ai
     embedded artificial intelligence
 embedded systems
     embedded systems
@@ -6533,7 +6552,8 @@ emotion in human-computer interaction
     emotion in human-computer interaction
 emotion recognition
     emotion recognition
-emotional ai
+emotional artificial intelligence
+    emotional ai
     emotional artificial intelligence
 emotional artificial intelligence
     emotional artificial intelligence
@@ -6964,7 +6984,8 @@ ethical investing
 ethical issue
     ethical issue
     ethical issues
-ethical issues of ai
+ethical issues of artificial intelligence
+    ethical issues of ai
     ethical issues of artificial intelligence
 ethical leadership
     ethical leadership
@@ -7071,11 +7092,7 @@ ethics in or
     ethics in or
 ethics in research
     ethics in research
-ethics of ai
-    ethics of artificial intelligence
-    ethics of ais.
-ethics of artificial intelligence
-    ethics of artificial intelligence
+
 ethics of care
     ethics of care
     ethics of caring
@@ -7298,9 +7315,8 @@ expired air
     expired air
 explainability
     explainability
-explainable ai
-    explainable artificial intelligence
 explainable artificial intelligence
+    explainable ai
     explainable artificial intelligence
 explanation
     explanation
@@ -7361,6 +7377,7 @@ face database
     face database
 face recognition
     face recognition
+    artificial intelligence and face recognition
 facebook
     facebook
 facial comparison
@@ -7411,7 +7428,8 @@ fairness properties
     fairness properties
 fairness trade-offs
     fairness trade-offs
-fairness-aware ai
+fairness-aware artificial intelligence
+    fairness-aware ai
     fairness-aware artificial intelligence
 fairness-aware machine learning
     fairness-aware machine learning
@@ -8062,7 +8080,8 @@ gender
     gender
 gender studies
     gender studies
-gendered ai
+gendered artificial intelligence
+    gendered ai
     gendered artificial intelligence
 gene
     gene
@@ -8380,7 +8399,8 @@ goods
     goods
 google
     google
-google ai
+google artificial intelligence
+    google ai
     google artificial intelligence
 goteborg
     goteborg
@@ -8393,8 +8413,6 @@ governance mechanisms
     governance mechanisms
 governance models
     governance models
-governance of artificial intelligence
-    governance of artificial intelligence
 governance of technology
     governance of technology
 government agencies
@@ -8573,8 +8591,6 @@ health and social care
     health and social care
 health applications
     health applications
-health artificial intelligence (ai)
-    health artificial intelligence
 health auxiliary
     health auxiliary
 health avatar
@@ -8720,7 +8736,8 @@ health technology assessments
     health technology assessments
 health workforce
     health workforce
-health-related ai research
+health-related artificial intelligence research
+    health-related ai research
     health-related artificial intelligence research
 healthcare
     healthcare
@@ -9211,7 +9228,8 @@ human activities
     human activities
 human agent
     human agent
-human and ai interaction
+human and artificial intelligence interaction
+    human and ai interaction
     human and artificial intelligence interaction
 human attention
     human attention
@@ -10183,10 +10201,7 @@ intelligent environment
     intelligent environment
 intelligent factory
     intelligent factory
-intelligent machine
-    intelligent machine
-    intelligent machines
-    machine intelligence
+
 intelligent object
     intelligent object
 intelligent robots
@@ -10598,7 +10613,8 @@ japan
     japan
 japanese (people)
     japanese (people)
-japanese ai pop star
+japanese artificial intelligence pop star
+    japanese ai pop star
     japanese artificial intelligence pop star
 jaundice
     jaundice
@@ -11497,7 +11513,8 @@ machine learning techniques
     machine-learning techniques
 machine learning technology
     machine learning technology
-machine learning: ai
+machine learning artificial intelligence
+    machine learning: ai
     machine learning: artificial intelligence
 machine morality
     machine morality
@@ -11857,7 +11874,9 @@ mediator
     mediator
 medicaid
     medicaid
-medical ai
+medical artificial intelligence
+    medical ai
+    medical artificial intelligence (mai)
     medical artificial intelligence
 medical and biological imaging
     medical and biological imaging
@@ -11867,8 +11886,6 @@ medical anthropology
     medical anthropology
 medical applications
     medical applications
-medical artificial intelligence (mai)
-    medical artificial intelligence (mai)
 medical assessment
     medical assessment
 medical audit
@@ -12517,10 +12534,14 @@ moral
     morals
 moral agency
     moral agency
+    artificial moral agency
+    artificial agency
+    agency
 moral agent
     moral agent
     moral agents
-moral ai
+moral artificial intelligence
+    moral ai
     moral artificial intelligence
 moral and ethical behavior
     moral and ethical behavior
@@ -13662,7 +13683,8 @@ oocyte retrieval
     oocyte retrieval
 opacity
     opacity
-opaque ai
+opaque artificial intelligence
+    opaque ai
     opaque artificial intelligence
 open
     open
@@ -14534,7 +14556,8 @@ philosophy
     philosophy
 philosophy and ethics
     philosophy and ethics
-philosophy of ai
+philosophy of artificial intelligence
+    philosophy of ai
     philosophy of artificial intelligence
 philosophy of artificial intelligence
     philosophy of artificial intelligence
@@ -15867,7 +15890,8 @@ race and political rights
     race and political rights
 race difference
     race difference
-race to ai
+race to artificial intelligence
+    race to ai
     race to artificial intelligence
 racializing assemblages
     racializing assemblages
@@ -16458,10 +16482,9 @@ responsibility
     responsibility
 responsibility gap
     responsibility gap
-responsible ai
-    responsible artificial intelligence
 responsible artificial intelligence
     responsible artificial intelligence
+    responsible ai
 responsible innovation
     responsible innovation
     responsible innovations
@@ -17588,7 +17611,8 @@ social acceptance
     social acceptance
 social actors
     social actors
-social ai
+social artificial intelligence
+    social ai
     social artificial intelligence
 social and environmental
     social and environmental
@@ -17672,7 +17696,8 @@ social impact
     social impacts
 social impact of robots
     social impact of robots
-social impacts of ai
+social impacts of artificial intelligence
+    social impacts of ai
     social impacts of artificial intelligence
 social implication
     social implication
@@ -18278,7 +18303,8 @@ stroke volume
     stroke volume
 stroma
     stroma
-strong ai
+strong artificial intelligence
+    strong ai
     strong artificial intelligence
 strontium
     strontium
@@ -19354,7 +19380,8 @@ transmissions
     transmissions
 transparency
     transparency
-transparency in ai
+transparency in artificial intelligence
+    transparency in ai
     transparency in artificial intelligence
 transparency in algorithms (fat*)
     transparency in algorithms (fat*)
@@ -19495,9 +19522,8 @@ trusted frameworks
     trusted frameworks
 trustworthiness
     trustworthiness
-trustworthy ai
-    trustworthy artificial intelligence
 trustworthy artificial intelligence
+    trustworthy ai
     trustworthy artificial intelligence
 trypsinogen
     trypsinogen
