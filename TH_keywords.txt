@@ -1205,6 +1205,9 @@ artificial immune system
     artificial immune systems
 artificial inference
     artificial inference
+artificial intelligence
+    artificial intelligence
+    ai
 artificial intelligence alignment   
     ai alignment
     artificial intelligence alignment
