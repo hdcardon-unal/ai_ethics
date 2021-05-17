@@ -1206,95 +1206,69 @@ artificial immune system
 artificial inference
     artificial inference
 artificial intelligence alignment   
-    ai alignment
     artificial intelligence alignment
 artificial intelligence and law
-    ai and law
     artificial intelligence and law
 artificial intelligence and machine ethics
-    ai and machine ethics
     artificial intelligence and machine ethics
 artificial intelligence applications
-    ai applications
     artificial intelligence applications
     applications of ai
     applications of artificial intelligence
 artificial intelligence arms race
-    ai arms race
     artificial intelligence arms race
 artificial intelligence artifacts
-    ai artifacts
     artificial intelligence artifacts
 artificial intelligence assistants
-    ai assistants
     digital assistants
     artificial intelligence assistants
 artificial intelligence confinement
-    ai confinement
     artificial intelligence confinement
 artificial intelligence ethics
-    ai ethics
     artificial intelligence ethics
     ethical artificial intelligence
     ai+ethics
     artificial intelligence+ethics
     artificial intelligence and ethics
     ethics and artificial intelligence
-    ethics of ai
     ethics of artificial intelligence
     ethics of ais.
 artificial intelligence ethics guidelines
-    ai ethics guidelines
     artificial intelligence ethics guidelines
 artificial intelligence for social good
-    ai for social good (ai4sg)
     artificial intelligence for social good (ai4sg)
     ai4sg
 artificial intelligence governance
-    ai governance
     artificial intelligence governance
     governance of artificial intelligence
 artificial intelligence in education
-    ai in education
     artificial intelligence in education
     ai-based educational systems
     artificial intelligence-based educational systems
 artificial intelligence knowledge map
-    ai knowledge map
     artificial intelligence knowledge map
 artificial intelligence policy
-    ai policy
     artificial intelligence policy
 artificial intelligence principles
-    ai principles
     artificial intelligence principles
 artificial intelligence regulation
-    ai regulation
     artificial intelligence regulation
 artificial intelligence rights
-    ai rights
     artificial intelligence rights
 artificial intelligence risk assessment
-    ai risk assessment
     artificial intelligence risk assessment
 artificial intelligence risk management
-    ai risk management
     artificial intelligence risk management
 artificial intelligence safety
-    ai safety
     artificial intelligence safety
 artificial intelligence security
-    ai security
     artificial intelligence security
 artificial intelligence systems
-    ai systems
     artificial intelligence systems
     systems artificial intelligence
 artificial intelligence techniques
-    ai techniques
     artificial intelligence techniques
 artificial intelligence technologies
-    ai technologies
     artificial intelligence technologies
 artificial intelligence crime
     ai-crime
@@ -1306,13 +1280,11 @@ artificial intelligence
     artificial intelligence (ai)
     artificial intelligence(ai)
     artificial intelligent
-    ai (artificial intelligence)
     artificial intellegence
     artifical intelligence
 artificial intelligence algorithms
     artificial intelligence algorithms
     artificial intelligence algorithms
-    ai algorithms
 artificial intelligence and existentialism
     artificial intelligence and existentialism
 artificial intelligence and future
@@ -1323,7 +1295,6 @@ artificial intelligence coaching
     artificial intelligence coaching
 artificial intelligence course
     artificial intelligence course
-    ai course
 artificial intelligence humanities
     artificial intelligence humanities
 artificial intelligence in medicine
@@ -1336,7 +1307,6 @@ artificial intelligence intelligent machines
 artificial intelligence research
     artificial intelligence research
     artificial intelligence research oversight
-    ai research oversight
 artificial intelligent behavior
     artificial intelligent behavior
     behavioral artificial intelligence
@@ -1674,7 +1644,6 @@ autonomous action
 autonomous agents
     autonomous agents
 autonomous artificial intelligence system
-    autonomous ai system
     autonomous artificial intelligence system
 autonomous artificial moral agents
     autonomous artificial moral agents
@@ -8737,7 +8706,6 @@ health technology assessments
 health workforce
     health workforce
 health-related artificial intelligence research
-    health-related ai research
     health-related artificial intelligence research
 healthcare
     healthcare
@@ -9229,7 +9197,6 @@ human activities
 human agent
     human agent
 human and artificial intelligence interaction
-    human and ai interaction
     human and artificial intelligence interaction
 human attention
     human attention
@@ -10614,7 +10581,6 @@ japan
 japanese (people)
     japanese (people)
 japanese artificial intelligence pop star
-    japanese ai pop star
     japanese artificial intelligence pop star
 jaundice
     jaundice
